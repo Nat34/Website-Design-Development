@@ -1,0 +1,33 @@
+
+body {
+  padding-top: 3.5rem;
+  background-color: #15acf3;
+}
+
+.todo .jumbotron {
+    background: #fff url('../images/iphone.png') bottom right no-repeat;
+    background-size: 22%;
+    background-position: 980px;
+    height: 550px;
+}
+
+.todo .jumbotron h1 {
+    max-width: 530px;
+}
+
+.todo .jumbotron .btn {
+    background-color: #0bd202;
+    color: #fff;
+}
+
+.todo .col-md-4 h2,
+.todo .col-md-4 > p {
+    color: #fff;
+    text-align: center;
+}
+
+@media(min-width: 576px) {
+    .jumbotron {
+        padding: 8rem 2rem;
+    }
+}
