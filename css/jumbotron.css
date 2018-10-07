@@ -1,4 +1,3 @@
-
 body {
   padding-top: 3.5rem;
   background-color: #15acf3;
@@ -6,9 +5,8 @@ body {
 
 .todo .jumbotron {
     background: #fff url('../images/iphone.png') bottom right no-repeat;
-    background-size: 22%;
-    background-position: 980px;
-    height: 550px;
+    background-size: 30%;
+    background-position: 80%;
 }
 
 .todo .jumbotron h1 {
@@ -25,6 +23,35 @@ body {
     color: #fff;
     text-align: center;
 }
+
+@media(max-width: 1350px) {
+.todo .jumbotron {
+        background-size: 40%;
+        background-position: 90%;
+    }
+}
+
+@media(max-width: 990px) {
+  .todo .jumbotron {
+        padding: 6rem 2rem;
+    }
+
+ .todo .jumbotron {
+        background-size: 50%;
+        background-position: 100%;
+    }
+    
+  .todo .jumbotron h1 {
+    max-width: 350px;
+  }
+}
+
+@media(max-width: 760px) {
+   .todo .jumbotron {
+     background-image: none;
+   }
+}
+
 
 @media(min-width: 576px) {
     .jumbotron {
