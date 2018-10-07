@@ -4,7 +4,7 @@ Creating Wireframe and Photoshop Mockups
 This repository contains files and documentation created during the setup, creation and development of a wireframe, high-fidelity mockup and full implementation of these mockups using Bootstrap.  This project was developed in conjunction with the course *Creating Wireframe and Photoshop Mockups* at Treehouse.
 
 ## Project: 
-Creating Balsamiq Wireframe, Hi-Fi Photoshop Mockup and Bootsrap Mockup.
+Creating Balsamiq Wireframe, Hi-Fi Photoshop Mockup and Bootstrap Mockup.
 
 ##### Bootstrap Mockup
 https://nat34.github.io/Website-Design-Development/
