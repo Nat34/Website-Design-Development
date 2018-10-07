@@ -22,7 +22,7 @@ The drivers behind this project are to learn how to create wireframes in various
 #### Fig.1 - Balsamiq Low-Fi Mockup
 Balsamiq is a wireframing tool used to prototype the major elements of the webpage or application, as well as copywriting (textual components).
 
-![alt text](https://github.com/Nat34/Website-Design-Development/blob/master/images/Balsamiq_mockup_ToDoApp.png "Fig.1")
+![balsamiq mockup](https://github.com/Nat34/Website-Design-Development/blob/master/images/Balsamiq_mockup_ToDoApp.png "Fig.1")
 
 #### Fig.2 - Photoshop High-Fidelity Mockup
 This mockup shows more detail, gives a better taste of what real UI elements might look like, and makes it easier to communicate functionality prior to development.
